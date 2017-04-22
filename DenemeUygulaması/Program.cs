@@ -7,6 +7,7 @@ namespace DenemeUygulaması
         static void Main(string[] args)
         {
             Console.WriteLine("HeloWorld");
+            Console.WriteLine("Merhaba");
             Console.ReadLine();
         }
     }
